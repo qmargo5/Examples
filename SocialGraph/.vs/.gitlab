@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 2525786,
+    "Username": "margo.gracheva.98",
+    "Name": "Маргарита Грачева",
+    "Email": "margo.gracheva.98@gmail.com",
+    "AvatarUrl": "https://secure.gravatar.com/avatar/952e00e9bbd136d5bb864a5370753d49?s=80&d=identicon",
+    "PrivateToken": "ad9c50e9780d85bb4a6b124faeb6f49e7b139f7b6a1d5a2fb67131bf044be0dd",
+    "Host": "https://gitlab.com",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 3
+  }
+}

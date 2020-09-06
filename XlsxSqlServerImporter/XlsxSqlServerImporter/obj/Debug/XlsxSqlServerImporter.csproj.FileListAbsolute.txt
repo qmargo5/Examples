@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\bin\Debug\XlsxSqlServerImporter.exe.config
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\bin\Debug\XlsxSqlServerImporter.exe
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\bin\Debug\XlsxSqlServerImporter.pdb
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\bin\Debug\ExcelDataReader.dll
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\bin\Debug\ExcelDataReader.pdb
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\bin\Debug\ExcelDataReader.xml
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\obj\Debug\XlsxSqlServerImporter.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\obj\Debug\XlsxSqlServerImporter.exe
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\obj\Debug\XlsxSqlServerImporter.pdb
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\bin\Debug\XlsxSqlServerImporter.exe.manifest
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\bin\Debug\XlsxSqlServerImporter.application
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\obj\Debug\XlsxSqlServerImporter.exe.manifest
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\obj\Debug\XlsxSqlServerImporter.application

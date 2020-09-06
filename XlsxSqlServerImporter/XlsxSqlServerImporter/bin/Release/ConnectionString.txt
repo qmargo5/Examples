@@ -1,0 +1,1 @@
+Data Source=S01-DIRECTX14;Initial Catalog=directum562;Integrated Security=True

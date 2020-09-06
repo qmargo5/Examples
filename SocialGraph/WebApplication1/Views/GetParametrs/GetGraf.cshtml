@@ -1,0 +1,63 @@
+﻿@model WebApplication1.Models.GrafMaker
+
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link rel="stylesheet" type="text/css" href="~/Content/Styles.css" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap-theme.css" rel="stylesheet" />
+    <link href="~/Content/panzoom.css" rel="stylesheet" />
+
+    <script src="http://code.jquery.com/jquery-2.0.3.min.js"></script>
+    <script src="https://unpkg.com/cytoscape/dist/cytoscape.min.js"></script>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+    <script type="text/javascript" src="~/Scripts/cytoscape-panzoom.js"></script>
+    <style>
+        body {
+            background-color: #F1F1F1;
+        }
+    </style>
+    <script type="text/javascript" src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+</head>
+<body>
+    
+    <div class="container">
+        <div class="text-center">
+            @using (Ajax.BeginForm("GetGraf", new AjaxOptions { UpdateTargetId = "results" }))
+            {
+                <div class="row">
+                    <h3 style="margin: 10px 10px 40px 10px"><b>Для того, чтобы построить граф, заполните поля:</b></h3>
+                </div>
+                <div class="row"></div>
+                <div class="row">
+                    <div class="col-md-4"><p><b>Размер графа затравки: @Html.TextBoxFor(x => x.SizeOfStartGraf, new { id = "SizeOfStartGraf" })</b></p></div>
+                    <div class="col-md-4"><p><b>Вероятность: @Html.TextBoxFor(x => x.Probability, new { id = "Probability" })</b></p></div>
+                    <div class="col-md-4"><p><b>Количество вершин: @Html.TextBoxFor(x => x.NumberOfNodes, new { id = "NumberOfNodes" })</b></p></div>
+                </div>
+                    <div class="row"><input type="submit" class="btn btn-success btn-lg" style="margin: 20px 20px 20px 20px " value="Построить граф" /></div>
+      
+            }
+
+        </div>
+
+    </div>
+    <div id="results"></div>
+    <style>
+        #cy {
+            width: 1000px;
+            height: 400px;
+            display: block;
+            background-color: white;
+        }
+    </style>
+   
+</body>
+</html>
+

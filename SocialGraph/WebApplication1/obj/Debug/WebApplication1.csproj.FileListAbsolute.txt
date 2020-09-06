@@ -1,0 +1,630 @@
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.resources.dll
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Елизвета Вячеславовна\Учёба\Алгоритмы и структуры данных\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\User\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.resources.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\WebApplication1.dll
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.resources.dll
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.Deployment.resources.dll
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.Razor.resources.dll
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+F:\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\User\Desktop\УИРС\Новая версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\vvs100\Desktop\Новая версия УИРС\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\User\Desktop\Косячная версия УИРС\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\vvs100\Desktop\новая Косячная версия УИРС\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.resources.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Елизвета Вячеславовна\Учёба\УИРС\24.12.2018 22.27\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\vvs100\Desktop\24.12.2018 23.41\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\User\Downloads\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\User\Desktop\Учеба\5 семестр\Новая папка\25_12_2018_00_zipulya\25.12.2018 00.26\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

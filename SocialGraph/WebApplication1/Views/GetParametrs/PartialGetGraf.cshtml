@@ -1,0 +1,240 @@
+﻿@model WebApplication1.Models.GrafMaker
+@{
+    Layout = null;
+}
+
+@{
+    Model.makeGraph();
+
+    //Добавление вершин
+    for (int i = 0; i < Model.NumberOfNodes - Model.SizeOfStartGraf; i++)
+    {
+        Model.AddVertex();
+    }
+    string l = Model.getString();
+    double clast;
+    clast = Model.clustering();
+
+    int[] rd = new int[2];
+
+    rd = Model.RadiusDiametr();
+
+    int[] indegree;
+    indegree = Model.inDegree();
+
+    int[] outdegree;
+    outdegree = Model.outDegree();
+
+}
+    <div class="row">
+        <div class="col-md-6">
+            <div id="cy" style="float: left; margin-left: 20px; position: relative;border: 1px solid gray; width: 97%; height: 500px; "></div>
+        </div>
+        <div class="col-md-6">
+            <div class="row">
+                <p><h4 style="margin: 1px 1px 20px 20px"><b>Диаметр графа: @rd[1]</b></h4></p>
+                <p><h4 style="margin: 1px 1px 20px 20px"><b>Радиус графа: @rd[0]</b></h4></p>
+                <p><h4 style="margin: 1px 1px 20px 20px"><b>Коэффициент кластеризации: @clast</b></h4></p>
+            </div>
+            <div class="row">
+                <p><h4 style="margin: 1px 1px 20px 20px"><b>Центральность: </b></h4></p>
+                <p><div class="col-md-3" id="centrality" style="width: 95%; height: 350px; margin: 1px 1px 2px 20px"></div></p>
+            </div>
+        </div>
+
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <p><h4 style="margin: 1px 1px 20px 20px"><b>Распределение по полустепеням захода: </b></h4></p> 
+            <p><div id="indegree" style="width: 95%; height: 350px; margin: 30px 5px 2px 20px"></div></p> </div>
+
+        <div class="col-md-6"> 
+            <p><h4 style="margin: 1px 1px 20px 20px"><b>Распределение по полустепеням исхода: </b></h4></p> 
+            <p><div id="outdegree" style="width: 95%; height: 350px; margin: 30px 5px 5px 3px"></div></p> </div>
+    </div>
+<div class="text-center">
+    <input type="submit" class="btn btn-success btn-lg" style="margin: 30px 5px 30px 5px" onclick='download_file("graph.graphml", dynamic_text())' value="Загрузить в формате graphml" />
+</div>    
+    <script>
+        function dynamic_text() {
+
+            var txt = @Html.Raw(Json.Encode(Model.ConvertToGraphML()));
+            return txt;
+        }
+        function download_file(name, contents, mime_type) {
+            mime_type = mime_type || "text/plain";
+
+            var blob = new Blob([contents], { type: mime_type });
+
+            var dlink = document.createElement('a');
+            dlink.download = name;
+            dlink.href = window.URL.createObjectURL(blob);
+            dlink.onclick = function (e) {
+                // revokeObjectURL needs a delay to work properly
+                var that = this;
+                setTimeout(function () {
+                    window.URL.revokeObjectURL(that.href);
+                }, 1500);
+            };
+
+            dlink.click();
+            dlink.remove();
+        }
+    </script>
+
+    <textarea rows="10" cols="80" id="listOfNodes" hidden>@l</textarea>
+
+    <script>
+        var i = 0;
+        var cy = window.cy = cytoscape({
+
+            container: document.getElementById('cy'), // container to render in
+
+            style: [ // the stylesheet for the graph
+                {
+                    selector: 'node',
+                    style: {
+                        'content': 'data(id)'
+
+                    }
+                },
+
+                {
+                    selector: 'edge',
+                    style: {
+                        'curve-style': 'bezier',
+                        'line-color': '#ccc',
+                        'target-arrow-color': '#ccc',
+                        'target-arrow-shape': 'triangle'
+                    }
+                }
+            ],
+
+            layout: {
+
+                name: 'concentric'
+            },
+            elements:
+                []
+        });
+        var count = parseInt(document.getElementById("NumberOfNodes").value);
+        var list = document.getElementById("listOfNodes").value;
+
+        var mas = list.split(';');
+
+        for (i = 0; i < count; i++) {
+            cy.add({ data: { id: i } })
+        }
+        for (i = 0; i < mas.length - 1; i++) {
+            var path = mas[i].split(',');
+            if (path[1] != "zero")
+                cy.add({ data: { source: path[0], target: path[1] } })
+        }
+        var layout = cy.elements().layout({
+            name: 'cose'
+
+        });
+        layout.run();
+
+        var defaults = {
+            zoomFactor: 0.05,
+            zoomDelay: 45,
+            minZoom: 0.1,
+            maxZoom: 10,
+            fitPadding: 50,
+            panSpeed: 10,
+            panDistance: 10,
+            panDragAreaSize: 75,
+            panMinPercentSpeed: 0.25,
+            panInactiveArea: 8,
+            panIndicatorMinOpacity: 0.5,
+            zoomOnly: false,
+            fitSelector: undefined,
+            animateOnFit: () => false,
+            fitAnimationDuration: 1000,
+            sliderHandleIcon: 'fa fa-minus',
+            zoomInIcon: 'fa fa-plus',
+            zoomOutIcon: 'fa fa-minus',
+            resetIcon: 'fa fa-expand',
+        };
+        cy.panzoom(defaults);
+
+        var centrality = [];
+
+        for (i = 0; i < count; i++) {
+            centrality[i] = cy.$().cc({ root: '#' + i, directed: true });
+        }
+
+        google.charts.load('current', { 'packages': ['line'] });
+        google.charts.setOnLoadCallback(drawChart);
+
+        function drawChart() {
+            var data = google.visualization.arrayToDataTable([
+                ['Number', 'Centrality'],
+                ['0', centrality[0]],
+            ]);
+
+            for (var i = 1; i <= centrality.length; i++) {
+                data.addRows([
+                    [i.toString(), centrality[i]],
+                ]);
+            }
+
+            var options = {
+                title: 'Centrality',
+                curveType: 'function',
+                legend: { position: 'bottom' }
+            };
+
+            var chart = new google.charts.Line(document.getElementById('centrality'));
+
+            chart.draw(data, google.charts.Line.convertOptions(options));
+        }
+    </script>
+    <script type="text/javascript">
+        var ind = [];
+
+        @for (int i = 0; i < indegree.Length; i++)
+    {
+        @:ind[@i]= @indegree[i];
+            }
+        var outd = [];
+
+        @for (int i = 0; i < outdegree.Length; i++)
+    {
+        @:outd[@i]= @outdegree[i];
+                }
+        google.charts.load('current', { 'packages': ['bar'] });
+        google.charts.setOnLoadCallback(drawChart(ind, 'indegree', 'indegree'));
+        google.charts.setOnLoadCallback(drawChart(outd, 'outdegree', 'outdegree'));
+        function drawChart(myArray, name, id) {
+            // alert(myArray[0]);
+
+            var data = google.visualization.arrayToDataTable([
+            [name, 'qty'],
+            ['0', myArray[0]],
+            ]);
+
+            for (var i = 1; i <= myArray.length; i++) {
+                data.addRows([
+                    [i.toString(), myArray[i]],
+                ]);
+            }
+
+            // alert(myArray);
+
+            var options = {
+                chart: {
+                    title: name,
+                }
+            };
+
+            var chart = new google.charts.Bar(document.getElementById(id));
+
+            chart.draw(data, google.charts.Bar.convertOptions(options));
+
+        }
+    </script>
+
+
+

@@ -1,0 +1,19 @@
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\bin\Release\XlsxSqlServerImporter.exe.config
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\bin\Release\XlsxSqlServerImporter.exe.manifest
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\bin\Release\XlsxSqlServerImporter.application
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\bin\Release\XlsxSqlServerImporter.exe
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\bin\Release\XlsxSqlServerImporter.pdb
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\bin\Release\ExcelDataReader.DataSet.dll
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\bin\Release\ExcelDataReader.dll
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\bin\Release\ExcelDataReader.pdb
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\bin\Release\ExcelDataReader.xml
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\bin\Release\ExcelDataReader.DataSet.pdb
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\bin\Release\ExcelDataReader.DataSet.xml
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\obj\Release\XlsxSqlServerImporter.exe.manifest
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\obj\Release\XlsxSqlServerImporter.application
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\obj\Release\XlsxSqlServerImporter.exe
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\obj\Release\XlsxSqlServerImporter.pdb
+C:\Users\User\Desktop\XlsxSqlServerImporter\XlsxSqlServerImporter\obj\Release\XlsxSqlServerImporter.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Примеры кода\Examples\XlsxSqlServerImporter\XlsxSqlServerImporter\bin\Release\XlsxSqlServerImporter.exe.config
+C:\Users\User\Desktop\Примеры кода\Examples\XlsxSqlServerImporter\XlsxSqlServerImporter\obj\Release\XlsxSqlServerImporter.exe
+C:\Users\User\Desktop\Примеры кода\Examples\XlsxSqlServerImporter\XlsxSqlServerImporter\obj\Release\XlsxSqlServerImporter.pdb

@@ -1,0 +1,374 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "no"?>
+<graphml xmlns = "http://graphml.graphdrawing.org/xmlns">
+<key attr.name = "name" attr.type = "string" for= "node" id = "name" />
+<key attr.name = "label" attr.type = "string" for= "node" id = "label" />
+<key attr.name = "name" attr.type = "string" for= "edge" id = "name" />
+ <key attr.name = "weight" attr.type = "double"   for= "edge" id = "weight" />
+<key attr.name = "name" attr.type = "string" for= "graph" id = "name" />
+<graph edgedefault = "directed" id = "Network">
+<node id="0">
+<data key="name">0</data>
+<data key="label">0</data>
+</node>
+<node id="1">
+<data key="name">1</data>
+<data key="label">1</data>
+</node>
+<node id="2">
+<data key="name">2</data>
+<data key="label">2</data>
+</node>
+<node id="3">
+<data key="name">3</data>
+<data key="label">3</data>
+</node>
+<node id="4">
+<data key="name">4</data>
+<data key="label">4</data>
+</node>
+<node id="5">
+<data key="name">5</data>
+<data key="label">5</data>
+</node>
+<node id="6">
+<data key="name">6</data>
+<data key="label">6</data>
+</node>
+<node id="7">
+<data key="name">7</data>
+<data key="label">7</data>
+</node>
+<node id="8">
+<data key="name">8</data>
+<data key="label">8</data>
+</node>
+<node id="9">
+<data key="name">9</data>
+<data key="label">9</data>
+</node>
+<node id="10">
+<data key="name">10</data>
+<data key="label">10</data>
+</node>
+<node id="11">
+<data key="name">11</data>
+<data key="label">11</data>
+</node>
+<node id="12">
+<data key="name">12</data>
+<data key="label">12</data>
+</node>
+<node id="13">
+<data key="name">13</data>
+<data key="label">13</data>
+</node>
+<node id="14">
+<data key="name">14</data>
+<data key="label">14</data>
+</node>
+<node id="15">
+<data key="name">15</data>
+<data key="label">15</data>
+</node>
+<node id="16">
+<data key="name">16</data>
+<data key="label">16</data>
+</node>
+<node id="17">
+<data key="name">17</data>
+<data key="label">17</data>
+</node>
+<node id="18">
+<data key="name">18</data>
+<data key="label">18</data>
+</node>
+<node id="19">
+<data key="name">19</data>
+<data key="label">19</data>
+</node>
+<node id="20">
+<data key="name">20</data>
+<data key="label">20</data>
+</node>
+<node id="21">
+<data key="name">21</data>
+<data key="label">21</data>
+</node>
+<node id="22">
+<data key="name">22</data>
+<data key="label">22</data>
+</node>
+<node id="23">
+<data key="name">23</data>
+<data key="label">23</data>
+</node>
+<node id="24">
+<data key="name">24</data>
+<data key="label">24</data>
+</node>
+<node id="25">
+<data key="name">25</data>
+<data key="label">25</data>
+</node>
+<node id="26">
+<data key="name">26</data>
+<data key="label">26</data>
+</node>
+<node id="27">
+<data key="name">27</data>
+<data key="label">27</data>
+</node>
+<node id="28">
+<data key="name">28</data>
+<data key="label">28</data>
+</node>
+<node id="29">
+<data key="name">29</data>
+<data key="label">29</data>
+</node>
+<node id="30">
+<data key="name">30</data>
+<data key="label">30</data>
+</node>
+<node id="31">
+<data key="name">31</data>
+<data key="label">31</data>
+</node>
+<node id="32">
+<data key="name">32</data>
+<data key="label">32</data>
+</node>
+<node id="33">
+<data key="name">33</data>
+<data key="label">33</data>
+</node>
+<node id="34">
+<data key="name">34</data>
+<data key="label">34</data>
+</node>
+<node id="35">
+<data key="name">35</data>
+<data key="label">35</data>
+</node>
+<node id="36">
+<data key="name">36</data>
+<data key="label">36</data>
+</node>
+<node id="37">
+<data key="name">37</data>
+<data key="label">37</data>
+</node>
+<node id="38">
+<data key="name">38</data>
+<data key="label">38</data>
+</node>
+<node id="39">
+<data key="name">39</data>
+<data key="label">39</data>
+</node>
+<node id="40">
+<data key="name">40</data>
+<data key="label">40</data>
+</node>
+<node id="41">
+<data key="name">41</data>
+<data key="label">41</data>
+</node>
+<node id="42">
+<data key="name">42</data>
+<data key="label">42</data>
+</node>
+<edge source="0" target = "1">
+<data key = "weight">1</data>
+</edge>
+<edge source="0" target = "2">
+<data key = "weight">1</data>
+</edge>
+<edge source="0" target = "3">
+<data key = "weight">1</data>
+</edge>
+<edge source="0" target = "8">
+<data key = "weight">1</data>
+</edge>
+<edge source="0" target = "19">
+<data key = "weight">1</data>
+</edge>
+<edge source="0" target = "20">
+<data key = "weight">1</data>
+</edge>
+<edge source="0" target = "27">
+<data key = "weight">1</data>
+</edge>
+<edge source="0" target = "29">
+<data key = "weight">1</data>
+</edge>
+<edge source="0" target = "31">
+<data key = "weight">1</data>
+</edge>
+<edge source="0" target = "35">
+<data key = "weight">1</data>
+</edge>
+<edge source="0" target = "37">
+<data key = "weight">1</data>
+</edge>
+<edge source="0" target = "39">
+<data key = "weight">1</data>
+</edge>
+<edge source="1" target = "0">
+<data key = "weight">1</data>
+</edge>
+<edge source="1" target = "2">
+<data key = "weight">1</data>
+</edge>
+<edge source="1" target = "3">
+<data key = "weight">1</data>
+</edge>
+<edge source="1" target = "4">
+<data key = "weight">1</data>
+</edge>
+<edge source="1" target = "5">
+<data key = "weight">1</data>
+</edge>
+<edge source="1" target = "7">
+<data key = "weight">1</data>
+</edge>
+<edge source="1" target = "9">
+<data key = "weight">1</data>
+</edge>
+<edge source="1" target = "13">
+<data key = "weight">1</data>
+</edge>
+<edge source="1" target = "14">
+<data key = "weight">1</data>
+</edge>
+<edge source="1" target = "15">
+<data key = "weight">1</data>
+</edge>
+<edge source="1" target = "19">
+<data key = "weight">1</data>
+</edge>
+<edge source="1" target = "20">
+<data key = "weight">1</data>
+</edge>
+<edge source="1" target = "22">
+<data key = "weight">1</data>
+</edge>
+<edge source="1" target = "23">
+<data key = "weight">1</data>
+</edge>
+<edge source="1" target = "24">
+<data key = "weight">1</data>
+</edge>
+<edge source="1" target = "31">
+<data key = "weight">1</data>
+</edge>
+<edge source="1" target = "32">
+<data key = "weight">1</data>
+</edge>
+<edge source="1" target = "33">
+<data key = "weight">1</data>
+</edge>
+<edge source="1" target = "34">
+<data key = "weight">1</data>
+</edge>
+<edge source="1" target = "38">
+<data key = "weight">1</data>
+</edge>
+<edge source="1" target = "40">
+<data key = "weight">1</data>
+</edge>
+<edge source="1" target = "42">
+<data key = "weight">1</data>
+</edge>
+<edge source="2" target = "0">
+<data key = "weight">1</data>
+</edge>
+<edge source="2" target = "1">
+<data key = "weight">1</data>
+</edge>
+<edge source="2" target = "10">
+<data key = "weight">1</data>
+</edge>
+<edge source="2" target = "13">
+<data key = "weight">1</data>
+</edge>
+<edge source="2" target = "22">
+<data key = "weight">1</data>
+</edge>
+<edge source="2" target = "25">
+<data key = "weight">1</data>
+</edge>
+<edge source="2" target = "28">
+<data key = "weight">1</data>
+</edge>
+<edge source="2" target = "30">
+<data key = "weight">1</data>
+</edge>
+<edge source="2" target = "35">
+<data key = "weight">1</data>
+</edge>
+<edge source="2" target = "36">
+<data key = "weight">1</data>
+</edge>
+<edge source="2" target = "42">
+<data key = "weight">1</data>
+</edge>
+<edge source="12" target = "10">
+<data key = "weight">1</data>
+</edge>
+<edge source="12" target = "16">
+<data key = "weight">1</data>
+</edge>
+<edge source="12" target = "22">
+<data key = "weight">1</data>
+</edge>
+<edge source="12" target = "28">
+<data key = "weight">1</data>
+</edge>
+<edge source="12" target = "32">
+<data key = "weight">1</data>
+</edge>
+<edge source="16" target = "11">
+<data key = "weight">1</data>
+</edge>
+<edge source="17" target = "10">
+<data key = "weight">1</data>
+</edge>
+<edge source="17" target = "32">
+<data key = "weight">1</data>
+</edge>
+<edge source="24" target = "2">
+<data key = "weight">1</data>
+</edge>
+<edge source="24" target = "35">
+<data key = "weight">1</data>
+</edge>
+<edge source="24" target = "36">
+<data key = "weight">1</data>
+</edge>
+<edge source="27" target = "4">
+<data key = "weight">1</data>
+</edge>
+<edge source="27" target = "13">
+<data key = "weight">1</data>
+</edge>
+<edge source="27" target = "28">
+<data key = "weight">1</data>
+</edge>
+<edge source="27" target = "36">
+<data key = "weight">1</data>
+</edge>
+<edge source="27" target = "39">
+<data key = "weight">1</data>
+</edge>
+<edge source="27" target = "40">
+<data key = "weight">1</data>
+</edge>
+<edge source="40" target = "36">
+<data key = "weight">1</data>
+</edge>
+<edge source="42" target = "35">
+<data key = "weight">1</data>
+</edge>
+</graph>
+</graphml> 

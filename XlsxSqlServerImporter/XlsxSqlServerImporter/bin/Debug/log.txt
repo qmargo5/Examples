@@ -1,0 +1,30 @@
+﻿17.05.2020 17:01:51 00:00:00.05 Prepairing...
+17.05.2020 17:01:57 00:00:06.04 P: Excel reader created
+17.05.2020 17:02:12 00:00:21.20 P: Dataset opened
+17.05.2020 17:02:12 00:00:21.23 P: Bulk copier created
+17.05.2020 17:02:12 00:00:21.23 Prepairing completed
+17.05.2020 17:02:12 00:00:21.57 1 table uploaded
+17.05.2020 17:02:12 00:00:21.74 2 table uploaded
+17.05.2020 17:02:12 00:00:21.74 All tables uploaded!
+21.05.2020 12:00:00 00:00:00.03 Prepairing...
+21.05.2020 12:00:00 00:00:00.13 P: Excel reader created
+21.05.2020 12:00:00 00:00:00.18 P: Dataset opened
+21.05.2020 12:06:27 00:00:00.08 Prepairing...
+21.05.2020 12:06:27 00:00:00.30 P: Excel reader created
+21.05.2020 12:06:27 00:00:00.50 P: Dataset opened
+21.05.2020 12:08:56 00:00:00.02 Prepairing...
+21.05.2020 12:08:56 00:00:00.14 P: Excel reader created
+21.05.2020 12:08:56 00:00:00.17 P: Dataset opened
+21.05.2020 12:08:56 00:00:00.20 P: Bulk copier created
+21.05.2020 12:08:56 00:00:00.20 Prepairing completed
+21.05.2020 12:08:56 00:00:00.44 1 table uploaded
+21.05.2020 12:08:56 00:00:00.44 2 table uploaded
+21.05.2020 12:08:56 00:00:00.45 All tables uploaded!
+21.05.2020 12:12:47 00:00:00.02 Prepairing...
+21.05.2020 12:13:10 00:00:22.64 P: Excel reader created
+21.05.2020 12:13:10 00:00:22.67 P: Dataset opened
+07.08.2020 9:46:55 00:00:00.52 Prepairing...
+07.08.2020 9:47:18 00:00:24.08 P: Excel reader created
+07.08.2020 9:47:18 00:00:24.13 P: Dataset opened
+07.08.2020 9:47:20 00:00:25.95 P: Bulk copier created
+07.08.2020 9:47:20 00:00:25.95 Prepairing completed
