@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Учеба\6 семестр\ТОИ\CloudTag\CloudTag\bin\Debug\CloudTag.exe.config
+C:\Users\User\Desktop\Учеба\6 семестр\ТОИ\CloudTag\CloudTag\obj\Debug\CloudTag.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Учеба\6 семестр\ТОИ\CloudTag\CloudTag\obj\Debug\CloudTag.Form1.resources
+C:\Users\User\Desktop\Учеба\6 семестр\ТОИ\CloudTag\CloudTag\obj\Debug\CloudTag.Properties.Resources.resources
+C:\Users\User\Desktop\Учеба\6 семестр\ТОИ\CloudTag\CloudTag\obj\Debug\CloudTag.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Учеба\6 семестр\ТОИ\CloudTag\CloudTag\bin\Debug\CloudTag.exe
+C:\Users\User\Desktop\Учеба\6 семестр\ТОИ\CloudTag\CloudTag\bin\Debug\CloudTag.pdb
+C:\Users\User\Desktop\Учеба\6 семестр\ТОИ\CloudTag\CloudTag\obj\Debug\CloudTag.exe
+C:\Users\User\Desktop\Учеба\6 семестр\ТОИ\CloudTag\CloudTag\obj\Debug\CloudTag.pdb
+C:\Users\User\Desktop\Учеба\6 семестр\ТОИ\CloudTag\CloudTag\obj\Debug\CloudTag.TagForm.resources
